@@ -36,6 +36,7 @@ import net.countercraft.movecraft.commands.PilotCommand;
 import net.countercraft.movecraft.commands.ReleaseCommand;
 import net.countercraft.movecraft.commands.RotateCommand;
 import net.countercraft.movecraft.commands.SiegeCommand;
+import net.countercraft.movecraft.commands.StatusCommand;
 import net.countercraft.movecraft.config.Settings;
 import net.countercraft.movecraft.craft.CraftManager;
 import net.countercraft.movecraft.listener.BlockListener;
